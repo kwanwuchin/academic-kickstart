@@ -21,13 +21,14 @@ organizations:
 bio: My research interests include resource allocation, optimization, wireless networks, Internet of Things.
 
 interests:
-- Optimization
+- Energy Harvesting Systems
 - Resource Allocation
-- Channel Access
+- Machine Learniing
+- Internet
 
 education:
   courses:
-  - course: PhD in Computer Networks
+  - course: PhD (Distinction) in Computer Networks
     institution: Curtin University
     year: 2000  
   - course: BSc (Hons1) in Computer Networks and Systems
